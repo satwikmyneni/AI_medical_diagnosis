@@ -165,9 +165,6 @@ if st.button('Predict Thyroid Condition'):
                 <h3 style="margin:0; color: var(--text-color);">
                     {condition} Detected
                 </h3>
-                <p style="margin:0.5rem 0 0 0;">
-                    Confidence: {max(probabilities)*100:.1f}%
-                </p>
             </div>
         """, unsafe_allow_html=True)
         
