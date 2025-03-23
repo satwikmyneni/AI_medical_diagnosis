@@ -1,8 +1,8 @@
-echo "streamlit
+streamlit
 pandas
 numpy
 scikit-learn
 joblib
 matplotlib
 seaborn
-pillow" 
+pillow
