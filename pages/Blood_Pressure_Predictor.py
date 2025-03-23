@@ -180,7 +180,6 @@ if st.button('Predict Blood Pressure Status'):
         st.markdown(f"""
             <div class="prediction-box {condition.replace(' ', '-')}">
                 <h3>{condition}</h3>
-                <p>Confidence: {max(probabilities)*100:.1f}%</p>
             </div>
         """, unsafe_allow_html=True)
         
