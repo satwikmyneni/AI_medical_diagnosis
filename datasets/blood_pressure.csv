@@ -1,0 +1,101 @@
+Age,Gender,Weight (kg),Height (cm),BMI,Systolic BP,Diastolic BP,Cholesterol (mg/dL),Pulse Rate (bpm),Condition
+53,Male,81.5,179,25.4,93,75,292,90,Normal
+57,Female,57.5,184,17.0,99,77,250,82,Normal
+34,Female,87.3,166,31.7,113,69,161,68,Normal
+59,Female,68.9,189,19.3,97,60,196,84,Normal
+74,Female,99.9,151,43.8,98,79,176,86,Normal
+55,Male,85.1,154,35.9,116,63,202,97,Normal
+41,Male,60.4,182,18.2,113,63,291,80,Normal
+51,Male,78.2,184,23.1,118,79,159,82,Normal
+37,Male,78.7,156,32.3,116,64,159,65,Normal
+18,Male,71.4,153,30.5,113,71,187,65,Normal
+65,Male,69.5,189,19.5,102,77,193,72,Normal
+39,Female,70.1,166,25.4,117,65,214,72,Normal
+58,Female,89.0,161,34.3,100,67,198,94,Normal
+46,Male,75.1,188,21.2,117,72,283,87,Normal
+61,Female,56.9,183,17.0,110,66,192,96,Normal
+69,Male,76.7,150,34.1,100,63,286,66,Normal
+72,Female,87.3,182,26.4,109,70,250,82,Normal
+68,Female,99.5,183,29.7,107,74,278,97,Normal
+40,Female,83.8,166,30.4,101,62,171,73,Normal
+29,Female,96.4,172,32.6,117,70,241,72,Normal
+25,Male,89.7,155,37.3,106,71,159,65,Normal
+18,Female,81.9,175,26.7,101,70,288,80,Normal
+58,Male,71.6,186,20.7,91,71,187,73,Normal
+32,Female,87.0,154,36.7,116,63,170,88,Normal
+36,Female,82.0,185,24.0,101,70,162,88,Normal
+18,Female,68.7,159,27.2,133,82,234,95,Prehypertension
+54,Male,97.8,157,39.7,134,86,183,84,Prehypertension
+65,Female,67.1,155,27.9,131,83,281,92,Prehypertension
+40,Male,94.0,173,31.4,133,88,288,72,Prehypertension
+50,Male,62.1,157,25.2,137,81,279,91,Prehypertension
+22,Male,78.4,166,28.5,123,88,215,93,Prehypertension
+63,Male,95.8,165,35.2,132,81,260,73,Prehypertension
+54,Male,86.0,166,31.2,131,81,184,98,Prehypertension
+39,Female,54.0,178,17.0,138,83,254,96,Prehypertension
+57,Female,62.8,177,20.0,130,86,195,85,Prehypertension
+47,Female,77.8,169,27.2,127,85,295,88,Prehypertension
+20,Female,69.8,178,22.0,137,82,243,81,Prehypertension
+41,Male,71.0,176,22.9,124,88,264,60,Prehypertension
+28,Male,70.7,189,19.8,127,82,223,67,Prehypertension
+72,Female,71.7,164,26.7,124,84,273,85,Prehypertension
+72,Male,88.1,157,35.7,136,84,222,99,Prehypertension
+21,Female,58.8,187,16.8,130,85,181,91,Prehypertension
+22,Male,62.7,185,18.3,129,83,158,60,Prehypertension
+60,Male,92.1,161,35.5,124,84,159,98,Prehypertension
+74,Male,70.4,178,22.2,134,83,257,87,Prehypertension
+25,Female,85.3,163,32.1,130,85,288,77,Prehypertension
+52,Female,95.7,175,31.2,129,81,271,87,Prehypertension
+30,Female,62.1,169,21.7,131,82,214,83,Prehypertension
+29,Female,61.2,167,21.9,133,83,198,94,Prehypertension
+40,Male,97.1,153,41.5,133,86,227,87,Prehypertension
+22,Male,81.0,151,35.5,157,97,262,91,Hypertension Stage 1
+22,Female,51.2,150,22.8,158,95,235,99,Hypertension Stage 1
+35,Male,75.9,158,30.4,141,98,220,98,Hypertension Stage 1
+29,Male,71.7,182,21.6,143,95,262,72,Hypertension Stage 1
+36,Female,99.4,176,32.1,157,96,265,62,Hypertension Stage 1
+37,Male,79.7,177,25.4,144,91,167,73,Hypertension Stage 1
+70,Female,61.2,179,19.1,142,95,194,85,Hypertension Stage 1
+56,Male,51.6,163,19.4,142,92,250,60,Hypertension Stage 1
+29,Male,87.7,186,25.3,158,97,228,69,Hypertension Stage 1
+64,Female,66.2,175,21.6,155,90,276,88,Hypertension Stage 1
+22,Female,81.2,180,25.1,152,93,238,86,Hypertension Stage 1
+60,Female,99.9,167,35.8,152,94,283,80,Hypertension Stage 1
+23,Male,81.9,173,27.4,140,94,201,69,Hypertension Stage 1
+61,Female,88.1,169,30.8,158,96,159,90,Hypertension Stage 1
+71,Female,94.9,152,41.1,158,92,164,97,Hypertension Stage 1
+65,Male,68.4,168,24.2,142,95,163,83,Hypertension Stage 1
+43,Female,55.0,173,18.4,148,94,169,90,Hypertension Stage 1
+63,Male,69.2,188,19.6,156,97,280,88,Hypertension Stage 1
+63,Male,55.1,164,20.5,153,95,168,72,Hypertension Stage 1
+26,Male,98.9,168,35.0,144,92,259,88,Hypertension Stage 1
+72,Female,83.5,150,37.1,146,92,206,77,Hypertension Stage 1
+55,Male,60.2,164,22.4,146,97,293,83,Hypertension Stage 1
+38,Male,64.6,163,24.3,147,90,226,71,Hypertension Stage 1
+40,Female,51.8,156,21.3,150,91,267,77,Hypertension Stage 1
+47,Male,93.5,167,33.5,157,90,222,71,Hypertension Stage 1
+51,Male,87.0,177,27.8,197,106,268,83,Hypertension Stage 2
+30,Male,67.1,152,29.0,191,102,218,68,Hypertension Stage 2
+19,Male,98.1,181,29.9,167,104,288,66,Hypertension Stage 2
+72,Male,72.1,176,23.3,162,100,233,84,Hypertension Stage 2
+34,Male,52.2,177,16.7,162,115,218,62,Hypertension Stage 2
+64,Male,99.3,175,32.4,190,105,165,66,Hypertension Stage 2
+25,Female,55.5,152,24.0,198,104,178,80,Hypertension Stage 2
+70,Female,70.3,169,24.6,192,111,178,70,Hypertension Stage 2
+58,Male,93.6,164,34.8,181,115,211,87,Hypertension Stage 2
+27,Male,76.6,161,29.6,175,109,272,70,Hypertension Stage 2
+32,Male,78.0,171,26.7,192,101,205,91,Hypertension Stage 2
+63,Female,95.1,178,30.0,177,116,176,90,Hypertension Stage 2
+46,Female,89.9,169,31.5,186,105,221,83,Hypertension Stage 2
+55,Male,93.1,168,33.0,177,103,293,72,Hypertension Stage 2
+72,Female,56.8,167,20.4,186,118,235,70,Hypertension Stage 2
+31,Female,65.7,170,22.7,192,112,239,89,Hypertension Stage 2
+42,Male,98.1,177,31.3,191,104,248,86,Hypertension Stage 2
+56,Male,61.4,170,21.2,174,112,226,82,Hypertension Stage 2
+31,Male,82.4,172,27.9,172,106,183,74,Hypertension Stage 2
+39,Male,73.8,172,24.9,185,102,178,90,Hypertension Stage 2
+25,Male,86.1,151,37.8,195,102,153,77,Hypertension Stage 2
+32,Female,88.2,157,35.8,169,104,198,90,Hypertension Stage 2
+24,Female,86.4,182,26.1,195,114,217,82,Hypertension Stage 2
+22,Female,82.6,181,25.2,172,108,170,68,Hypertension Stage 2
+71,Male,95.3,162,36.3,173,101,150,99,Hypertension Stage 2

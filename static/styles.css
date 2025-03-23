@@ -1,0 +1,179 @@
+/* General Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: #f4f4f4;
+    transition: background 0.5s ease, color 0.5s ease;
+}
+.header-title {
+    font: size 65px; 
+    margin: 2rem 0 1.5rem 4rem !important; 
+    left: -1%; 
+    transform: translateX(2%); 
+}
+.h1{
+    font-size: 30px;
+}
+
+body.dark-mode {
+    background: #121212;
+    color: #f4f4f4;
+}
+
+/* Background Styling with Glassmorphism */
+.stApp {
+    background: url('https://media.gettyimages.com/id/1282778190/video/healthcare-icon-pattern-medical-concept-background-stock-video.jpg?s=640x640&k=20&c=9tCoHekrsk3f_cbzRmpM6g_uEFH3ItJFH1bI96P5NHU=') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.info-section {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+/* Disease Module Grid Layout */
+.disease-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+
+.disease-box {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(15px);
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    animation: shimmer 4s ease infinite alternate;
+}
+
+@keyframes shimmer {
+    0% { background: rgba(255, 255, 255, 0.3); }
+    100% { background: rgba(255, 255, 255, 0.5); }
+}
+
+.disease-box:hover {
+    transform: translateY(-10px) scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.disease-box button {
+    padding: 10px 20px;
+    background: linear-gradient(45deg, #00796b, #004d40);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0, 121, 107, 0.7);
+    margin-top: auto;
+    align-self: center;
+}
+
+.disease-box button:hover {
+    background: linear-gradient(45deg, #004d40, #00251a);
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(0, 255, 200, 0.9), 0 0 30px rgba(0, 255, 200, 0.7);
+}
+
+.marquee {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding-left: 10px !important; 
+    background: linear-gradient(45deg, #43c8da, #00796b);
+    color: white;
+    padding: 8px 0;
+    font-size: 18px;
+}
+.marquee span {
+    display: inline-block;
+    animation: marquee 15s linear infinite;
+    padding-right: 100%; 
+}
+
+@keyframes marquee {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+}
+
+/* Back to Top Button */
+#backToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    padding: 10px 20px;
+    background: linear-gradient(45deg, #00796b, #004d40);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 121, 107, 0.7);
+    transition: 0.3s ease-in-out;
+}
+
+#backToTop:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(0, 255, 200, 0.9);
+}
+
+
+/* Floating Chat Button */
+#chatButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background: linear-gradient(45deg, #4caf50, #2e7d32);
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(76, 175, 80, 0.7);
+    transition: 0.3s ease-in-out;
+}
+
+#chatButton:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(76, 255, 80, 0.9);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    #toggleMode, #backToTop, #chatButton {
+        padding: 8px 16px;
+    }
+    /* Additional insurance in static CSS */
+div[data-testid="stSidebarUserContent"] {
+    display: none !important;
+}
+
+button[title="View fullscreen"] {
+    display: none !important;
+}
+
+.stSidebar {
+    min-width: 0 !important;
+}
+}
+.footer_1{
+    text-align: center;
+
+}

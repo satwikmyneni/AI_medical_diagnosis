@@ -1,0 +1,101 @@
+Age,Gender,Body Temperature (°C),Headache,Muscle Pain,Fatigue,Chills,Severity Level,Dehydration Level,Duration (days),Heart Rate (bpm),Condition
+22,Female,38.6,No,No,Yes,No,Moderate,None,7,130,Viral Fever
+14,Male,37.7,Yes,Yes,Yes,No,Moderate,Mild,5,111,Viral Fever
+26,Female,38.4,Yes,No,Yes,No,Moderate,None,3,116,Viral Fever
+49,Male,37.5,Yes,Yes,No,No,Mild,None,8,83,Viral Fever
+67,Male,37.8,No,Yes,Yes,No,Mild,Mild,3,93,Viral Fever
+44,Male,38.6,Yes,No,Yes,No,Moderate,Mild,5,135,Viral Fever
+62,Female,37.7,No,Yes,Yes,No,Mild,None,6,103,Viral Fever
+38,Male,37.6,Yes,Yes,Yes,No,Mild,Mild,8,97,Viral Fever
+21,Female,38.2,No,Yes,Yes,No,Severe,None,12,122,Viral Fever
+33,Female,38.8,Yes,Yes,Yes,No,Severe,None,6,136,Viral Fever
+42,Female,38.2,Yes,No,Yes,No,Severe,None,6,134,Viral Fever
+32,Male,38.7,Yes,Yes,Yes,No,Mild,None,7,88,Viral Fever
+58,Female,38.6,Yes,No,Yes,No,Mild,None,1,96,Viral Fever
+54,Female,38.3,Yes,Yes,Yes,No,Mild,None,2,96,Viral Fever
+43,Female,38.9,Yes,Yes,Yes,No,Mild,None,7,84,Viral Fever
+31,Female,38.1,Yes,Yes,Yes,No,Mild,Mild,11,90,Viral Fever
+37,Female,38.3,Yes,No,Yes,No,Mild,None,4,95,Viral Fever
+28,Male,37.5,No,Yes,Yes,No,Moderate,None,7,110,Viral Fever
+59,Male,38.9,Yes,Yes,Yes,No,Mild,None,11,88,Viral Fever
+42,Female,37.5,Yes,Yes,Yes,No,Moderate,None,12,130,Viral Fever
+66,Female,38.6,Yes,Yes,Yes,No,Mild,None,3,109,Viral Fever
+57,Male,38.3,Yes,No,Yes,No,Mild,None,13,93,Viral Fever
+23,Male,38.5,Yes,Yes,No,No,Moderate,None,2,136,Viral Fever
+5,Male,38.8,No,No,Yes,No,Mild,None,5,109,Viral Fever
+65,Male,38.1,Yes,Yes,Yes,No,Mild,Mild,1,83,Viral Fever
+24,Male,39.7,Yes,No,Yes,No,Mild,Severe,2,96,Bacterial Fever
+20,Female,38.6,Yes,No,Yes,No,Mild,None,3,88,Bacterial Fever
+22,Male,39.2,Yes,No,Yes,Yes,Mild,None,12,91,Bacterial Fever
+45,Male,38.1,Yes,No,Yes,Yes,Mild,None,12,91,Bacterial Fever
+13,Female,39.3,Yes,No,Yes,Yes,Mild,None,7,98,Bacterial Fever
+35,Female,38.6,Yes,No,Yes,Yes,Severe,None,2,117,Bacterial Fever
+13,Female,38.4,Yes,No,Yes,Yes,Severe,None,11,132,Bacterial Fever
+14,Male,38.6,Yes,No,Yes,Yes,Severe,None,9,113,Bacterial Fever
+49,Male,38.6,Yes,No,Yes,No,Moderate,None,7,110,Bacterial Fever
+54,Male,38.2,Yes,No,Yes,No,Moderate,None,7,135,Bacterial Fever
+68,Male,38.6,Yes,No,Yes,Yes,Moderate,None,4,122,Bacterial Fever
+51,Male,38.9,Yes,No,Yes,Yes,Mild,Severe,2,107,Bacterial Fever
+68,Female,38.8,Yes,No,Yes,Yes,Severe,None,1,117,Bacterial Fever
+9,Male,39.4,Yes,No,Yes,Yes,Moderate,None,7,122,Bacterial Fever
+11,Male,38.2,Yes,No,Yes,Yes,Moderate,Severe,4,134,Bacterial Fever
+31,Male,39.6,Yes,No,Yes,Yes,Mild,None,8,92,Bacterial Fever
+39,Female,38.8,Yes,No,Yes,Yes,Mild,Mild,5,83,Bacterial Fever
+15,Female,39.2,No,No,Yes,Yes,Moderate,None,11,136,Bacterial Fever
+32,Female,39.9,Yes,No,Yes,No,Mild,None,4,109,Bacterial Fever
+8,Male,38.1,Yes,No,Yes,Yes,Severe,None,1,135,Bacterial Fever
+45,Female,38.3,No,No,Yes,Yes,Mild,Mild,1,109,Bacterial Fever
+64,Female,38.1,Yes,No,Yes,Yes,Mild,None,1,105,Bacterial Fever
+58,Female,38.5,Yes,No,Yes,Yes,Severe,None,11,113,Bacterial Fever
+51,Female,38.1,Yes,No,Yes,Yes,Mild,None,3,86,Bacterial Fever
+29,Male,38.1,Yes,No,Yes,Yes,Moderate,Mild,7,110,Bacterial Fever
+39,Female,40.0,Yes,Yes,Yes,No,Mild,None,12,105,Dengue Fever
+65,Male,39.1,No,Yes,Yes,Yes,Severe,Mild,6,132,Dengue Fever
+58,Female,41.0,Yes,Yes,Yes,Yes,Mild,Mild,12,101,Dengue Fever
+7,Female,39.9,Yes,No,Yes,Yes,Mild,None,13,103,Dengue Fever
+68,Male,38.8,Yes,Yes,Yes,No,Mild,Mild,4,84,Dengue Fever
+66,Female,39.3,Yes,Yes,Yes,Yes,Moderate,None,1,127,Dengue Fever
+8,Female,39.5,Yes,Yes,Yes,Yes,Moderate,None,3,138,Dengue Fever
+10,Male,40.0,Yes,No,Yes,Yes,Severe,None,6,116,Dengue Fever
+27,Female,39.0,Yes,No,Yes,No,Severe,Mild,11,134,Dengue Fever
+69,Male,40.9,No,Yes,Yes,Yes,Severe,None,7,119,Dengue Fever
+15,Female,39.9,Yes,Yes,Yes,No,Severe,None,12,113,Dengue Fever
+18,Female,39.5,Yes,No,Yes,Yes,Mild,None,4,102,Dengue Fever
+25,Male,40.2,Yes,Yes,Yes,Yes,Severe,None,2,120,Dengue Fever
+40,Female,40.3,Yes,Yes,Yes,Yes,Severe,Severe,8,117,Dengue Fever
+57,Female,39.9,Yes,Yes,Yes,No,Mild,None,11,102,Dengue Fever
+44,Female,38.6,Yes,Yes,No,Yes,Mild,None,2,93,Dengue Fever
+64,Male,39.6,Yes,Yes,Yes,No,Mild,Mild,12,104,Dengue Fever
+47,Male,41.0,Yes,Yes,Yes,Yes,Mild,None,11,84,Dengue Fever
+16,Female,40.7,Yes,Yes,Yes,No,Moderate,Severe,8,133,Dengue Fever
+36,Female,38.9,Yes,Yes,Yes,Yes,Moderate,None,5,139,Dengue Fever
+46,Female,39.4,Yes,Yes,No,No,Severe,Severe,12,126,Dengue Fever
+49,Female,39.9,Yes,Yes,Yes,Yes,Severe,None,1,113,Dengue Fever
+40,Male,41.0,Yes,Yes,Yes,Yes,Moderate,None,12,117,Dengue Fever
+33,Female,38.5,Yes,Yes,Yes,Yes,Mild,None,3,88,Dengue Fever
+62,Male,40.7,Yes,Yes,Yes,Yes,Moderate,None,7,127,Dengue Fever
+48,Male,39.6,Yes,Yes,Yes,Yes,Severe,Mild,11,137,Malaria
+69,Male,40.2,Yes,No,Yes,Yes,Moderate,None,7,139,Malaria
+24,Female,39.8,Yes,Yes,Yes,Yes,Mild,None,12,96,Malaria
+58,Male,39.9,Yes,Yes,Yes,Yes,Moderate,None,5,137,Malaria
+43,Male,39.7,Yes,Yes,Yes,Yes,Mild,Severe,6,81,Malaria
+56,Male,39.4,Yes,Yes,Yes,No,Mild,None,11,84,Malaria
+68,Male,40.6,Yes,Yes,No,No,Mild,None,10,89,Malaria
+57,Male,40.0,No,Yes,Yes,Yes,Severe,None,10,118,Malaria
+35,Male,39.6,Yes,Yes,Yes,No,Severe,None,11,117,Malaria
+9,Male,39.8,Yes,No,Yes,Yes,Moderate,None,12,121,Malaria
+41,Female,38.1,Yes,No,Yes,No,Mild,None,8,108,Malaria
+14,Male,39.4,Yes,Yes,Yes,Yes,Mild,Mild,5,91,Malaria
+32,Male,40.5,Yes,No,No,Yes,Mild,None,2,92,Malaria
+31,Female,39.9,Yes,Yes,Yes,Yes,Severe,None,6,122,Malaria
+68,Female,40.9,Yes,Yes,Yes,No,Mild,Severe,6,92,Malaria
+21,Female,40.8,Yes,Yes,Yes,Yes,Mild,Mild,10,106,Malaria
+12,Female,38.0,Yes,Yes,No,No,Severe,Mild,8,135,Malaria
+46,Female,40.2,Yes,No,No,No,Severe,Mild,2,126,Malaria
+59,Male,40.5,Yes,Yes,Yes,Yes,Mild,None,5,105,Malaria
+36,Male,39.7,No,Yes,Yes,Yes,Mild,None,11,90,Malaria
+16,Female,40.2,Yes,No,Yes,No,Moderate,None,9,115,Malaria
+16,Female,40.6,Yes,Yes,Yes,No,Severe,Mild,11,110,Malaria
+67,Male,38.3,Yes,Yes,Yes,Yes,Severe,None,6,127,Malaria
+37,Female,40.6,Yes,Yes,Yes,Yes,Mild,None,12,98,Malaria
+62,Male,39.9,Yes,Yes,Yes,Yes,Severe,Mild,12,139,Malaria
