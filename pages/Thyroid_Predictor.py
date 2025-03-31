@@ -228,6 +228,9 @@ if st.button('Predict Thyroid Condition', key="thy_predict_button"):
             <div class="prediction-box {condition}">
                 <h3>{condition} Detected</h3>
                 <p>Confidence: {max(probabilities)*100:.1f}%</p>
+                <h3 style="margin:0; color: var(--text-color);">
+                    {condition} Detected
+                </h3>
             </div>
         """, unsafe_allow_html=True)
 
@@ -264,5 +267,8 @@ with st.expander("📋 Clinical Reference Guide"):
         - 🔵 Borderline: Values near threshold limits
         *Note: Always consult with an endocrinologist for clinical diagnosis.*
     """)
+<<<<<<< HEAD
     
         
+=======
+>>>>>>> d7a2d2d588a4d8e4e733def2a011aff358464b4c
