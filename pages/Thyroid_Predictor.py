@@ -25,9 +25,10 @@ st.markdown("""
         }
         .top-left-container {
             position: fixed;
-            top: 60px;
+            top: 80px;
             left: 20px;
             z-index: 9999;
+            text-decoration: none;
         }
         .top-left-button {
             background: linear-gradient(145deg, #4CAF50, #2E7D32);
@@ -36,6 +37,7 @@ st.markdown("""
             border-radius: 20px;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
             transition: all 0.3s ease;
+            text-decoration: none;
         }
         .top-left-button:hover {
             transform: scale(1.05);
@@ -50,6 +52,7 @@ st.markdown("""
             background: linear-gradient(145deg, #8e44ad, #6c3483);
             border-radius: 8px;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            text-decoration: none;
         }
         .prediction-box {
             padding: 1.5rem;
@@ -57,10 +60,10 @@ st.markdown("""
             margin: 1rem 0;
             border-left: 5px solid;
         }
-        .Normal { border-color: #4CAF50; background: #e8f5e9; }
-        .Hypothyroidism { border-color: #FF9800; background: #fff3e0; }
-        .Hyperthyroidism { border-color: #f44336; background: #ffebee; }
-        .Borderline { border-color: #2196F3; background: #e3f2fd; }
+        .Normal { border-color: #4CAF50; background:#4CAF50 ; }
+        .Hypothyroidism { border-color: #FF9800; background: #FF9800; }
+        .Hyperthyroidism { border-color: #f44336; background: #f44336; }
+        .Borderline { border-color: #2196F3; background: #2196F3; }
     </style>
 """, unsafe_allow_html=True)
 
@@ -267,8 +270,4 @@ with st.expander("📋 Clinical Reference Guide"):
         - 🔵 Borderline: Values near threshold limits
         *Note: Always consult with an endocrinologist for clinical diagnosis.*
     """)
-<<<<<<< HEAD
-    
-        
-=======
->>>>>>> d7a2d2d588a4d8e4e733def2a011aff358464b4c
+

@@ -25,9 +25,10 @@ st.markdown("""
         }
         .top-left-container {
             position: fixed;
-            top: 60px;
+            top: 80px;
             left: 20px;
             z-index: 9999;
+            text-decoration: none;
         }
         .top-left-button {
             background: linear-gradient(145deg, #4CAF50, #2E7D32);
@@ -36,6 +37,7 @@ st.markdown("""
             border-radius: 20px;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
             transition: all 0.3s ease;
+            text-decoration: none;
         }
         .top-left-button:hover {
             transform: scale(1.05);
